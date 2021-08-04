@@ -25,7 +25,7 @@ weatherdata.addEventListener('submit', (e) => {
             if (data.error) {
                 messageOne.textContent = data.error
             } else {
-                console.log(data)
+                console.log('we are in the console application for the application.')
                 messageOne.textContent = data.location
                 messageTwo.textContent = data.forcast
             }
