@@ -1,0 +1,26 @@
+body{
+    width: 460px;
+    color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color: black;
+    height: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    color: cadetblue;
+    border-top: 1px solid white;
+}
+
+header a {
+    color: darkgray;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
+img{
+    width: 250px;
+}
